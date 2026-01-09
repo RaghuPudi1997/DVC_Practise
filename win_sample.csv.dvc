@@ -1,0 +1,5 @@
+outs:
+- md5: 1a15aa4c48048173524d58546e94c0b0
+  size: 329
+  hash: md5
+  path: win_sample.csv

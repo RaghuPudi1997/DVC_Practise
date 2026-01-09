@@ -1,0 +1,4 @@
+[core]
+    remote = winremote
+['remote "winremote"']
+    url = gs://mlops-learn-dvc-bucket
